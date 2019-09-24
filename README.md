@@ -28,10 +28,6 @@ You BMI is 15.40 and your weight status is underweight.
 ++++++++++++++++++++++++++++++Answer+++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-//#include<iostream>//
-
-using namespace std;
-
 int main()
 {
 	cout<<"USER’S BODY MASS INDEX (BMI) CALCULATOR"<<endl;
@@ -63,5 +59,3 @@ int main()
 	system("pause"); 
 	return 0;
 } 
-
-
