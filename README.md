@@ -15,9 +15,7 @@ Below 18.5 Underweight
 To calculate BMI based on the weight in pounds ( wt_lb ) and height in inches ( ht_in ), use this
 formula ( round to tenths ):
 
-703 x wt_lb
-———————————
-ht_in 2
+703 x wt_lb/ht_in 2
 
 Sample Run:
 
