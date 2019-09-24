@@ -28,7 +28,7 @@ You BMI is 15.40 and your weight status is underweight.
 ++++++++++++++++++++++++++++++Answer+++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-#include<iostream>
+//#include<iostream>//
 
 using namespace std;
 
